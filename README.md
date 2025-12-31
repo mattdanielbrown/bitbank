@@ -1,6 +1,6 @@
 # Bitbank Free Bootstrap Cryptocurrency Template
 
-![bitbank](https://demo.themefisher.com/thumbnails/bitbank.png)
+![bitbank](https://assets.teamosis.com/thumbs/bitbank.png)
 
 👉🏻[View Live Preview](https://demo.themefisher.com/bitbank/)
 
